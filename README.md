@@ -59,7 +59,7 @@ I am a Beginner Discord bot developer <img src="https://media.giphy.com/media/WU
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,nodejs,mongodb,vscode,github,git,figma,discord&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=bash,javascript,nodejs,mongodb,vscode,github,git,figma,discord&theme=dark" />
   </a>
 </p>
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp; -->
