@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Beginner Discord bot developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Python back-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <!-- - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
@@ -80,9 +80,9 @@ I am a Beginner Discord bot developer <img src="https://media.giphy.com/media/WU
 
 ---
 
-### ✍️ Blog Posts : 
-SOON...
+<!--### ✍️ Blog Posts : 
+SOON... -->
 <!-- - [How to Create REST APIs with Java and Spring Boot](https://www.twilio.com/blog/create-rest-apis-java-spring-boot)
 - [How to Implement Memoization in React to Improve Performance](https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/)
 - [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/) --> <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END --> 
